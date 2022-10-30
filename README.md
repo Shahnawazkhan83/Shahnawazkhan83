@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahnawazkhan83
-- 👀 I’m interested in  Coding , AI , ML , Android & web development
-- 🌱 I’m currently learning C++, Datastructure & algorithms , Kotlin , Engineering
+- 👀 I’m interested in Blockchain & Cryptography, Competitive Programming & Web Development
+- 🌱 I’m currently learning C++, Datastructure & algorithms, Blockchain, Ethereum 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email-id:- khanshahnawaz833@gmail.com 
                      Linkedin:- https://www.linkedin.com/mwlite/mynetwork/ 
