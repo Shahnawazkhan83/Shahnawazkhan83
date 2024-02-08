@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shahnawazkhan83&label=Profile%20views&color=blue&style=for-the-badge&base=10000" alt="Shahnawazkhan83" /> </p>
 - 👋 Hi, I’m @Shahnawazkhan83
 - 👀 I’m interested in Blockchain & Cryptography, Competitive Programming & Web Development
 - 🌱 I’m currently learning C++, Datastructure & algorithms, Blockchain, Ethereum 
