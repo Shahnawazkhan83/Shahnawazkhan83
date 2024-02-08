@@ -96,7 +96,21 @@ contract Profile {
 
 </div>
 
-<br>
+---
+### 📊 Github Stats
+
+<p align = "center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahnawazkhan83&show_icons=true&locale=en&layout=compact" alt="shahnawazkhan83" hight="450" width="380"/></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawazkhan83&show_icons=true&locale=en" alt="shahnawazkhan83" hight="450" width="460" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawazkhan83&" alt="shahnawazkhan83" hight="450" width="465" /></p>
+
+</p>
+---
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 <!---
 Shahnawazkhan83/Shahnawazkhan83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
