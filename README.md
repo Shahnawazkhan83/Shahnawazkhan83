@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shahnawazkhan83&label=Profile%20views&color=blue&style=for-the-badge&base=10000" alt="Shahnawazkhan83" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shahnawazkhan83&label=Profile%20views&color=blue&style=for-the-badge&base=1000" alt="Shahnawazkhan83" /> </p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=6500&pause=1000&color=37C1FE&center=true&random=false&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahnawaz+Khan!;Passionate+Full-Stack+Blockchain+Developer...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%E2%9B%93+Web3+Enthusiast+%26+Researcher...;%F0%9F%93%96+Author%3A+%22The+Evolution+of+Blockchain%22..." alt="Typing SVG" />
@@ -100,12 +100,12 @@ contract Profile {
 ### 📊 Github Stats
 
 <p align = "center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahnawazkhan83&show_icons=true&locale=en&layout=compact" alt="shahnawazkhan83" hight="450" width="380"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahnawazkhan83&show_icons=true&locale=en&layout=compact" alt="shahnawazkhan83" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawazkhan83&show_icons=true&locale=en" alt="shahnawazkhan83" hight="450" width="460" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawazkhan83&show_icons=true&locale=en" alt="shahnawazkhan83"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawazkhan83&" alt="shahnawazkhan83" hight="450" width="465" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawazkhan83&" alt="shahnawazkhan83" /></p>
 
 </p>
 ---
