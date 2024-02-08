@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shahnawazkhan83&label=Profile%20views&color=blue&style=for-the-badge&base=10000" alt="Shahnawazkhan83" /> </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Full+Stack+Blockchain+Developer+👨‍💻;⛓️+Blockchain+Researcher+&+Enthusiast"; Author+"Evolution of Blockchain" alt="Currently Learning Solidity">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&pause=1000&color=0EF75B&center=true&random=false&width=700&lines=Full-Stack+Blockchain+Developer...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;%E2%9B%93%EF%B8%8F+Web3+Enthusiast+%26+Researcher...;%F0%9F%93%96Author%3A+%22The+Evolution+of+Blockchain%22..." alt="Typing SVG" />
 </p>
 
 
@@ -20,7 +20,7 @@
 
 - 🔗 I’m a Full Stack Blockchain Developer, Web3 Researcher & Enthusiast.
 - 📖 Author: <a href="https://drive.google.com/file/d/1jd0yo_djP9BZ87W7hnVNhaBpE0In_yj5/view"> "The Evolution of Blockchain" </a>
-- 👨‍🏫 Conducted over 20 enlightening sessions on Web3, while mentoring 1000+ students on Blockchain and related topics.
+- 👨‍🏫 Delivered 20+ enlightening sessions on Web3 & Mentored 1000+ Students on Blockchain and related topics.
 - 👀 I’m looking to collaborate Development projects and Hackathons.
 - 💞️ Love to collaborate on Defi, GameFi, SocialFi, Smart contracts and lots more.......
 - 💭 Connect with me on LinkedIn and ask away! 🚀 Happy to chat and share insights!
@@ -74,8 +74,8 @@ contract Profile {
 
 <br>
 
-<img style="margin: 10px" src="https://www.vhv.rs/dpng/d/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://image.pngaaa.com/896/2507896-middle.png" alt="ReactJs" height="50" />
+<img style="margin: 10px" src="https://icons-for-free.com/iff/png/256/command+develop+javascript+language+programming+software+icon-1320165727225308896.png" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://icons-for-free.com/iff/png/256/vscode+icons+type+reactjs-1324451469448726104.png" alt="ReactJs" height="50" />
 <img style="margin: 10px" src="https://www.svgrepo.com/download/354112/nextjs.svg" alt="NextJs" height="50" />
 <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" alt="NodeJs" height="50" />
 <img style="margin: 10px" src="https://icons-for-free.com/iff/png/256/MongoDB-1329545826074381322.png" alt="MongoDB" height="50" />
@@ -91,9 +91,6 @@ contract Profile {
 </div>
 
 <br>
-
-
-
 <!---
 Shahnawazkhan83/Shahnawazkhan83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
