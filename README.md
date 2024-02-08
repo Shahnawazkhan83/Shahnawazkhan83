@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shahnawazkhan83&label=Profile%20views&color=blue&style=for-the-badge&base=10000" alt="Shahnawazkhan83" /> </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&pause=1000&color=blue&center=true&random=false&width=700&lines=Full-Stack+Blockchain+Developer...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;%E2%9B%93%EF%B8%8F+Web3+Enthusiast+%26+Researcher...;%F0%9F%93%96Author%3A+%22The+Evolution+of+Blockchain%22..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=6500&pause=1000&color=37C1FE&center=true&random=false&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahnawaz+Khan!;Passionate+Full-Stack+Blockchain+Developer...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%E2%9B%93+Web3+Enthusiast+%26+Researcher...;%F0%9F%93%96+Author%3A+%22The+Evolution+of+Blockchain%22..." alt="Typing SVG" />
 </p>
 
 
