@@ -1,6 +1,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shahnawazkhan83&label=Profile%20views&color=blue&style=for-the-badge&base=10000" alt="Shahnawazkhan83" /> </p>
 
 <p align="center">
+<img style="margin: 100px" src="https://www.bing.com/th/id/OGC.81178b47a8598f0c81c4799f2cdd4057?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f2131993%2fscreenshots%2f4948736%2fthoughtworks-gif_dribbble.gif&ehk=NNfOMQ6dfiA3eWWZAhI73QT3tX1lMjqFSSH4bXYrTAo%3d" alt="Cover">
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=22&pause=1000&color=0EF75B&center=true&random=false&width=700&lines=Full-Stack+Blockchain+Developer...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;%E2%9B%93%EF%B8%8F+Web3+Enthusiast+%26+Researcher...;%F0%9F%93%96Author%3A+%22The+Evolution+of+Blockchain%22..." alt="Typing SVG" />
 </p>
 
